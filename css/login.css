@@ -72,7 +72,7 @@ form input[type="button"]{
 }
 
 form button:hover{
-    opacity: .7s;
+    opacity: 7s;
 }
 
 .conteiner{
@@ -84,6 +84,7 @@ form button:hover{
 img{
     width: 100%;
     height: 100%;
+    bottom: 0px;
     object-fit: cover;
     position: absolute;
     z-index: -1;
